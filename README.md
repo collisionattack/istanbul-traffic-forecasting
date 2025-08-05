@@ -34,26 +34,26 @@ https://data.ibb.gov.tr
 
 This project includes but is not limited to:
 
-- Time Series Models: ARIMA, SARIMA, Prophet, Holt-Winters
+- **Time Series Models:** ARIMA, SARIMA, Prophet, Holt-Winters
 
-- Machine Learning Models: Random Forest, Gradient Boosting, Support Vector Regression
+- **Machine Learning Models:** Random Forest, Gradient Boosting, Support Vector Regression
 
-- Deep Learning Models: LSTM, GRU, and potentially Temporal Fusion Transformers (TFT)
+- **Deep Learning Models:** LSTM, GRU, and potentially Temporal Fusion Transformers (TFT)
 
-- Hybrid Models: Ensemble combinations of traditional and deep learning models
+- **Hybrid Models:** Ensemble combinations of traditional and deep learning models
     
 &nbsp;
 ### 📊 Evaluation Metrics
 
 Models are compared based on:
 
-- Mean Absolute Error (MAE)
+- **Mean Absolute Error (MAE)**
 
-- Root Mean Squared Error (RMSE)
+- **Root Mean Squared Error (RMSE)**
 
-- Mean Absolute Percentage Error (MAPE)
+- **Mean Absolute Percentage Error (MAPE)**
 
-- R² Score
+- **R² Score**
 
 &nbsp;
 ### 🚧 Project Status
