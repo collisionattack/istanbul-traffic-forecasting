@@ -3,10 +3,8 @@
 Forecasting Istanbul traffic using time series and machine learning models. Public dataset from İBB Tech Istanbul Open Data Portal. This project is not affiliated with Istanbul Metropolitan Municipality. The dataset includes historical daily traffic index values, and also  minimum, maximum, and average traffic congestion levels. The main goal here is to accurately predict traffic trends and compare their performance using different forecasting methods based on evaluation metrics.
 
     Disclaimer: This project is not affiliated with or endorsed by the Istanbul Metropolitan Municipality (İBB) or any of its subsidiaries. The dataset used is publicly available and sourced from the İBB Tech Istanbul Open Data Portal.
-    
 
-
-
+&nbsp;
 ### 📦 Dataset Overview
 
 The dataset contains 3,332 daily records with the following columns:
@@ -22,9 +20,7 @@ The dataset contains 3,332 daily records with the following columns:
 The traffic data used in this project is obtained from the İBB Tech Istanbul Open Data Portal:
 https://data.ibb.gov.tr
 
-
-
-
+&nbsp;
 ### 🔍 Objectives
 
     Predict traffic congestion patterns and traffic flow for selected areas in Istanbul.
@@ -33,9 +29,7 @@ https://data.ibb.gov.tr
 
     Provide a reproducible pipeline for traffic data preprocessing, modeling, and performance analysis.
     
-
-
-
+&nbsp;
 ### ⚙️ Methods Used
 
 This project includes but is not limited to:
@@ -48,9 +42,7 @@ This project includes but is not limited to:
 
     Hybrid Models: Ensemble combinations of traditional and deep learning models
     
-
-
-
+&nbsp;
 ### 📊 Evaluation Metrics
 
 Models are compared based on:
@@ -63,9 +55,7 @@ Models are compared based on:
 
     R² Score
 
-
-
-
+&nbsp;
 ### 🚧 Project Status
 
 Data preprocessing pipeline
