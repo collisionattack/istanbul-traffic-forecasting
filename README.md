@@ -9,13 +9,13 @@ Forecasting Istanbul traffic using time series and machine learning models. Publ
 
 The dataset contains 3,332 daily records with the following columns:
 
-    trafficindexdate: Date of observation (in UTC format)
+**`trafficindexdate`**: Date of observation (in UTC format)
 
-    minimum_traffic_index: Daily minimum traffic index (integer)
+**`minimum_traffic_index`**: Daily minimum traffic index (integer)
 
-    maximum_traffic_index: Daily maximum traffic index (integer)
+**`maximum_traffic_index`**: Daily maximum traffic index (integer)
 
-    average_traffic_index: Daily average traffic index (float)
+**`average_traffic_index`**: Daily average traffic index (float)
     
 The traffic data used in this project is obtained from the İBB Tech Istanbul Open Data Portal:
 https://data.ibb.gov.tr
@@ -23,45 +23,45 @@ https://data.ibb.gov.tr
 &nbsp;
 ### 🔍 Objectives
 
-    Predict traffic congestion patterns and traffic flow for selected areas in Istanbul.
+- Predict traffic congestion patterns and traffic flow for selected areas in Istanbul.
 
-    Evaluate and compare different forecasting models using standard accuracy metrics.
+- Evaluate and compare different forecasting models using standard accuracy metrics.
 
-    Provide a reproducible pipeline for traffic data preprocessing, modeling, and performance analysis.
+- Provide a reproducible pipeline for traffic data preprocessing, modeling, and performance analysis.
     
 &nbsp;
 ### ⚙️ Methods Used
 
 This project includes but is not limited to:
 
-    Time Series Models: ARIMA, SARIMA, Prophet, Holt-Winters
+- Time Series Models: ARIMA, SARIMA, Prophet, Holt-Winters
 
-    Machine Learning Models: Random Forest, Gradient Boosting, Support Vector Regression
+- Machine Learning Models: Random Forest, Gradient Boosting, Support Vector Regression
 
-    Deep Learning Models: LSTM, GRU, and potentially Temporal Fusion Transformers (TFT)
+- Deep Learning Models: LSTM, GRU, and potentially Temporal Fusion Transformers (TFT)
 
-    Hybrid Models: Ensemble combinations of traditional and deep learning models
+- Hybrid Models: Ensemble combinations of traditional and deep learning models
     
 &nbsp;
 ### 📊 Evaluation Metrics
 
 Models are compared based on:
 
-    Mean Absolute Error (MAE)
+- Mean Absolute Error (MAE)
 
-    Root Mean Squared Error (RMSE)
+- Root Mean Squared Error (RMSE)
 
-    Mean Absolute Percentage Error (MAPE)
+- Mean Absolute Percentage Error (MAPE)
 
-    R² Score
+- R² Score
 
 &nbsp;
 ### 🚧 Project Status
 
-Data preprocessing pipeline
+✅ Data preprocessing pipeline
 
-Baseline model implementation
+- Baseline model implementation
 
-Evaluation and comparison of models
+- Evaluation and comparison of models
 
-Visualization of forecasts
+- Visualization of forecasts
