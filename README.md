@@ -1,6 +1,6 @@
 # 📈 Traffic Forecasting for Istanbul Using Several Methods
 
-Forecasting Istanbul traffic using time series and machine learning models. Public dataset from İBB Tech Istanbul Open Data Portal. This project is not affiliated with Istanbul Metropolitan Municipality. The dataset includes historical daily traffic index values, and also  minimum, maximum, and average traffic congestion levels. The main goal here is to accurately predict traffic trends and compare their performance using different forecasting methods based on evaluation metrics.
+Forecasting Istanbul traffic using time series and machine learning models. Public dataset from İBB Tech Istanbul Open Data Portal. The dataset includes historical daily traffic index values, and also  minimum, maximum, and average traffic congestion levels. The main goal here is to accurately predict traffic trends and compare their performance using different forecasting methods based on evaluation metrics.
 
 &nbsp;
 ⚠️ **Disclaimer:** This project is not affiliated with or endorsed by the Istanbul Metropolitan Municipality (İBB) or any of its subsidiaries. The dataset used is publicly available and sourced from the İBB Tech Istanbul Open Data Portal.
