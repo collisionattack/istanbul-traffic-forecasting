@@ -70,8 +70,4 @@ Models are compared based on:
 
 &nbsp;
 &nbsp;
-### 1. Splitting Method
-
-`TimeSeriesSplit` from `scikit-learn` library (Rolling-window CV) has been used for model selection and hyperparameter tuning. It is useful because it gives multiple and strictly time-ordered train/validation folds. So, seeing the overfit and performance variance is possible.
-
-Also, last 15% of data as the final test. It gives single and clean benchmark for the real-world scenario of predicting the next unknown days.
+⏳ **In Progress...**
